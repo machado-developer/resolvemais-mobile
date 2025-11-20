@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "mob",
-    "slug": "mob",
+    "name": "resolvemais",
+    "slug": "resolvemais-mob",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "mob",
     "userInterfaceStyle": "automatic",
+    "backgroundColor": "#ffffff",
     "newArchEnabled": true,
     "plugins": [
       "expo-router",

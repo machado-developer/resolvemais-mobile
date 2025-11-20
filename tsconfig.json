@@ -15,6 +15,8 @@
     "expo-env.d.ts",
     "nativewind-env.d.ts",
     "babel.config.js",
-    "metro.config.js"
+    "metro.config.js",
+    "src/services/analytics.sts",
+    "src/types/perfil-profissionacmd"
   ]
 }
